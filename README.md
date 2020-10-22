@@ -25,6 +25,9 @@ U-Test:
 H-Test
 - https://fr.wikipedia.org/wiki/Test_de_Kruskal-Wallis
 
+Wilkoxon test:
+- https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test
+
 
 ## [API Documentation](https://cheminfo.github.io/statistics/)
 
